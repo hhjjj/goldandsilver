@@ -1,4 +1,4 @@
-baseURL = "https://goldsilverband.netlify.com/"
+baseURL = "https://goldsilverband.netlify.com"
 languageCode = "en-us"
 title = "- gold & silver -"
 theme = "paperback"
